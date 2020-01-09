@@ -17,6 +17,9 @@ Read or watch:
 |    Task    | Description                                                                                     |
 | ---------- | ----------------------------------------------------------------------------------------------- |
 |  Level 0   | script or a program that votes 1024 times for your id here: http://158.69.76.135/level0.php.    |
+|  Level 1   | script or a program that votes 4096 times for your id here: http://158.69.76.135/level1.php     |
+|  Level 2   | script or a program that votes 1024 times for your id here: http://158.69.76.135/level2.php     |
+|  Level 3   | In process     |
 
 ## Language
 
