@@ -1,7 +1,7 @@
 # hodor
 ***Hodor*** - cheat online voting contests
 
-![hador-gif][]
+![hodor-gif][]
 
 ## Resources
 Read or watch:
