@@ -19,7 +19,8 @@ Read or watch:
 |  Level 0   | script or a program that votes 1024 times for your id here: http://158.69.76.135/level0.php.    |
 |  Level 1   | script or a program that votes 4096 times for your id here: http://158.69.76.135/level1.php     |
 |  Level 2   | script or a program that votes 1024 times for your id here: http://158.69.76.135/level2.php     |
-|  Level 3   | In process     |
+|  Level 3   | In process - imcomplete    |
+|  Level 4   | script or a program that votes 98 times for your id here: http://158.69.76.135/level4.phpExecute level 4 as follows `./level_4.py 1992`|
 
 ## Language
 
