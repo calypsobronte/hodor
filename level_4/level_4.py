@@ -56,7 +56,7 @@ urlProxies = "https://free-proxy-list.net/index.html"
 i = 0
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:68.0) Gecko/20100101 Firefox/68.0', 'Referer': 'http://158.69.76.135/level4.php'}
 with requests.session() as client:
-    while i  < 10:
+    while i  < 98:
         lenProxi = 0
         os.environ["HTTP_PROXY"] = ""
         votes = getVotes(url, int(sys.argv[1]))
