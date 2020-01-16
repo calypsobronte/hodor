@@ -26,6 +26,16 @@ Read or watch:
 
 - Python with web scripting
 
+## Tools
+- Install complements for the exec `level_#.py`
+    ```bash
+    $ python -m pip install image
+    $ pip3 install pillow
+    $ pip3 install pytesseract
+    $ pip install tesseract
+    $ pip install tesseract-ocr
+    ```
+
 ## Contribute
 *Lina Maria Montaño Ramirez* 
 - [Twitter - @calypsobronte]
